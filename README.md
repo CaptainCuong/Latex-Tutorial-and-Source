@@ -1,6 +1,6 @@
 # Latex-Tutorial
 
-##Code Listing and Hightlight
+## Code Listing and Hightlight
 ### Listings
 https://www.overleaf.com/learn/latex/Code_listing
 ### Minted
