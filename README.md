@@ -1,12 +1,12 @@
 # Latex-Tutorial
 
 ## Code Listing and Hightlight
-### Listings
+### 1. Listings
 https://www.overleaf.com/learn/latex/Code_listing
-### Minted
+### 2. Minted
 https://www.overleaf.com/learn/latex/Code_Highlighting_with_minted
 
 ## Text Format
 ### Text colouring
-#### Xcolor
+#### 1. Xcolor
 https://www.overleaf.com/learn/latex/Using_colours_in_LaTeX
