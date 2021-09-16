@@ -17,3 +17,6 @@ https://tex.stackexchange.com/questions/39227/no-indent-in-the-first-paragraph-i
 ### Reference text
 #### Hyperref
 https://stackoverflow.com/questions/1491842/references-with-text-in-latex#:~:text=In%20LaTeX%20you%20can%20easily,the%20page%20with%20%5Cpageref%7B%7D%20.
+
+## Listing/Itemize
+https://www.overleaf.com/learn/latex/Lists#Nested_itemize_lists:_bullet_style
