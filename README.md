@@ -20,3 +20,7 @@ https://stackoverflow.com/questions/1491842/references-with-text-in-latex#:~:tex
 
 ## Listing/Itemize
 https://www.overleaf.com/learn/latex/Lists#Nested_itemize_lists:_bullet_style
+
+## Figure Format
+### Figure position
+https://www.overleaf.com/learn/latex/Positioning_of_Figures
