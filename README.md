@@ -26,6 +26,8 @@ https://www.overleaf.com/learn/latex/Lists#Nested_itemize_lists:_bullet_style
 https://www.overleaf.com/learn/latex/Positioning_of_Figures
 ### Fix position of figure
 https://tex.stackexchange.com/questions/8625/force-figure-placement-in-text
+### Figure position
+https://tex.stackexchange.com/questions/119905/insert-multiple-figures-in-latex
 
 ## Float Position Configuration
 https://tex.stackexchange.com/questions/39017/how-to-influence-the-position-of-float-environments-like-figure-and-table-in-lat
