@@ -23,7 +23,7 @@ https://www.overleaf.com/learn/latex/Lists#Nested_itemize_lists:_bullet_style
 
 ## Figure Format
 ### Figure position
-https://www.overleaf.com/learn/latex/Positioning_of_Figures
+https://shantoroy.com/latex/add-subfig-in-latex/
 ### Fix position of figure
 https://tex.stackexchange.com/questions/8625/force-figure-placement-in-text
 ### Figure position
