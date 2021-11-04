@@ -31,3 +31,7 @@ https://tex.stackexchange.com/questions/119905/insert-multiple-figures-in-latex
 
 ## Float Position Configuration
 https://tex.stackexchange.com/questions/39017/how-to-influence-the-position-of-float-environments-like-figure-and-table-in-lat
+
+## Code listing
+### 1. Insert inline code
+https://tex.stackexchange.com/questions/286094/insert-code-keywords-inline
